@@ -13,5 +13,6 @@ import java.util.*;
         }
 
         System.out.println("Reversed string: " + r);
+        sc.close();
     }
 }
