@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int sumOfTheDigitsOfHarshadNumber(int x) {
         int sum=0;
         int t=x;
