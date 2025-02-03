@@ -1,4 +1,4 @@
-public class Solution {
+ class Solution {
     public boolean isPerfectSquare(int num) {
         double ans = (double) Math.pow(num,0.5);
         int abs = (int) ans;

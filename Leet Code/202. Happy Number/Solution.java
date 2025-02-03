@@ -1,5 +1,5 @@
 //remove public from class in leetcode
-public class Solution {
+ class Solution {
     public boolean isHappy(int n) {
         while(n>9){
             n=squaresum(n);
