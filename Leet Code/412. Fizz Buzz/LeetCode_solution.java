@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<String> fizzBuzz(int n) {
         List<String> l = new ArrayList<>(n);
