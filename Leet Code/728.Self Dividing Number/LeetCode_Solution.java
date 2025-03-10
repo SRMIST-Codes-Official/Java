@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
        List<Integer> list = new ArrayList<>();
