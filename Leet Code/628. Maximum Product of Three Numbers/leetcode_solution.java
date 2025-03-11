@@ -8,7 +8,6 @@ class Solution {
         int t=nums[nums.length-3];
         int l=nums[0];
         int sl=nums[1];
-        int tl=nums[2];
         if(f<0 && s<0 && t<0){
             return f*s*t;
         }
