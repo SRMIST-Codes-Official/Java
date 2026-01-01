@@ -1,4 +1,3 @@
-//solution of 3775
 class Solution {
     public String reverseWords(String s) {
         String[] words = s.split(" ");
