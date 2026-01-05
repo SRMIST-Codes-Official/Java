@@ -1,3 +1,4 @@
+//5ms sollution
 class Solution {
     public int maxDistinct(String s) {
         int[] arr=new int[26];
